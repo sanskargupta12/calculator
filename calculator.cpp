@@ -19,7 +19,7 @@ int main(){
  			cout << "Addition of two no is: " << a+b;
  			break;
  		case '-':
- 			cout << "Substraction is: "<< a-b;
+ 			cout << "Substraction of two no is: "<< a-b;
  			break;
  		case '*':
  			cout << "Multiplication is: "<< a*b;
