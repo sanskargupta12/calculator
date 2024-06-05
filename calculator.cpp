@@ -11,7 +11,7 @@ int main(){
 	cin >> b ;
 	
 	char operation;
-	cout << "Enter the operation to be performed: ";
+	cout << "Enter the operation to be performed for calculation: ";
  	cin >> operation  ;
  	
  	switch(operation){
