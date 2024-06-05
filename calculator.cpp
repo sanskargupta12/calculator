@@ -16,7 +16,7 @@ int main(){
  	
  	switch(operation){
  		case '+':
- 			cout << "Addition is: " << a+b;
+ 			cout << "Addition of two no is: " << a+b;
  			break;
  		case '-':
  			cout << "Substraction is: "<< a-b;
