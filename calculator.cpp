@@ -22,7 +22,7 @@ int main(){
  			cout << "Substraction of two no is: "<< a-b;
  			break;
  		case '*':
- 			cout << "Multiplication is: "<< a*b;
+ 			cout << "Multiplication of two no is: "<< a*b;
  			break;
  		case '/':
  			cout << "Division is: "<< a/b;
