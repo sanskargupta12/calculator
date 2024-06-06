@@ -7,7 +7,7 @@ int main(){
 	cout << "Enter first value: ";
 	cin >> a ;
 	
-	cout <<"Enter another value: ";
+	cout <<"Enter secornd value: ";
 	cin >> b ;
 	
 	char operation;
