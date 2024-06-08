@@ -43,7 +43,7 @@ int main(){
  			cout << "Logorithm is: " << log(a) << ", " << log(b);
  			break;
 		default :
-		    cout << "Invalid operation.";
+		    cout << "Invalid operation!!!";
 			break; 			
 	 }
  	
